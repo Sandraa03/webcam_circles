@@ -1,0 +1,3 @@
+/media/sandra/Sandra 1TB/UVic/Trimestre1/SistemesPercepcio/Unitat2/webcam_circles/build/CMakeFiles/edit_cache.dir
+/media/sandra/Sandra 1TB/UVic/Trimestre1/SistemesPercepcio/Unitat2/webcam_circles/build/CMakeFiles/rebuild_cache.dir
+/media/sandra/Sandra 1TB/UVic/Trimestre1/SistemesPercepcio/Unitat2/webcam_circles/build/CMakeFiles/circle_detector.dir
